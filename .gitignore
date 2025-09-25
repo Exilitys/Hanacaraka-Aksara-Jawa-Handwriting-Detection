@@ -1,0 +1,7 @@
+﻿*.h5
+*.keras
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.python-version
