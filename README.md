@@ -110,6 +110,8 @@ This will launch a web interface where you can:
 - Get real-time predictions with confidence scores
 - View the uploaded image alongside the prediction
 
+![Streamlit](./Screenshots/streamlit.png)
+
 ### 📚 Training the Model
 
 Run the Jupyter notebook for complete training pipeline:
@@ -155,6 +157,9 @@ The notebook provides comprehensive evaluation including:
 ## Results
 
 The model demonstrates strong performance on the test set with detailed classification reports and visualizations available in the notebook.
+![Results](./Screenshots/output.png)
+
+
 
 ### Key Performance Features:
 - Multi-class classification of 20 Javanese characters
