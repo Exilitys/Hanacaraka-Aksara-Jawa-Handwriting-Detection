@@ -22,8 +22,8 @@ class_indicies = p.load(file)
 label_map = {v: k for k, v in class_indicies}
 
 # --- Streamlit App ---
-st.title("Image Classification with Keras Model")
-st.write("Upload an image to classify it using a trained model.")
+st.title("Hanacaraka Handwriting Image Classifiation")
+st.write("Upload an Hanacaraka Handwriting Image to classify it using a trained model.")
 
 uploaded_file = st.file_uploader("Choose an image", type=["jpg", "jpeg", "png"])
 
